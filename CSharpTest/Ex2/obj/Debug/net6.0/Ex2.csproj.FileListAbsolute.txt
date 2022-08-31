@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\bin\Debug\net6.0\Ex2.exe
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\bin\Debug\net6.0\Ex2.deps.json
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\bin\Debug\net6.0\Ex2.runtimeconfig.json
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\bin\Debug\net6.0\Ex2.dll
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\bin\Debug\net6.0\Ex2.pdb
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\obj\Debug\net6.0\Ex2.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\obj\Debug\net6.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\obj\Debug\net6.0\Ex2.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\obj\Debug\net6.0\Ex2.dll
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\obj\Debug\net6.0\refint\Ex2.dll
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\obj\Debug\net6.0\Ex2.pdb
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\obj\Debug\net6.0\Ex2.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\C#\CSharpTest\Ex2\obj\Debug\net6.0\ref\Ex2.dll
